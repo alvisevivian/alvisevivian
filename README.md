@@ -1,5 +1,5 @@
 <h1 align="center">👋Alvise Vivian</h1>
-<h3 align="center">SwiftUI Developer | AI Enthusiast | IB DP Student</h3>
+<h3 align="center">SwiftUI Developer | Passionate About AI  | IB DP Student</h3>
 
 <p align="center">
   <a href="[https://www.linkedin.com/in/alvisezurini/](https://www.linkedin.com/in/alvise-vivian-972732274/)" target="_blank">
