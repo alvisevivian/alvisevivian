@@ -20,6 +20,7 @@
 - 🤖 Exploring **AI & Machine Learning**, Kaggle competitions, and educational AI apps for beginners.  
 - 🎮 Designing 3D environments for **Meta Quest** VR experiences.  
 - 🏗 Passionate about **3D printing** and building physical models for educational projects.  
+- 🏆 Winner of the **Swift Student Challenge 2025**.  
 - 📚 IB DP student, currently exploring **IB Business SL & DP1 projects**, economics, and biotechnology.  
 
 ---
@@ -35,16 +36,19 @@
 
 ---
 
-## 🌟 Skills
-### Programming & Tools
-- **Languages:** Swift, Python, JavaScript, SQL
-- **Frameworks:** SwiftUI, Flask
-- **Other:** Firebase, Kaggle, Blender, 3D Printing, VR (Meta Quest)
+## 🛠️ Skills
+**Languages:** Swift, Python, JavaScript, SQL  
+**AI/ML:** Scikit-learn, TensorFlow, NLP, Kaggle competitions  
+**Embedded:** Raspberry Pi, Arduino, L298N motor control  
+**Web:** Flask, Firebase, HTML/CSS/JS  
+**Tools:** Blender, 3D Printing, Git, Xcode, VR (Meta Quest)
 
-### Soft Skills
-- Problem-solving & critical thinking  
-- Product design & UI/UX design  
-- Scientific research & presentation  
+---
+
+## 🤝 Leadership & Collaboration
+- Leading and coordinating small team projects for IB DP and personal apps.  
+- Collaborating with clients and end-users to design apps that meet real needs.  
+- Experience managing competitions and hackathons projects.  
 
 ---
 
