@@ -53,7 +53,7 @@
 
 ## 📫 Contact Me
 - Email: alvi.vivian09@gmail.com  
-- LinkedIn: [Alvise Zurini](https://www.linkedin.com/in/alvisezurini/)  
-- Portfolio: *coming soon*  
+- LinkedIn: [Alvise Vivian](https://www.linkedin.com/in/alvisezurini/)  
+- Portfolio: (https://alvisevivian.com)
 
 ---
